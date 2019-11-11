@@ -7,7 +7,7 @@
 
 
 ## 启动项目：
-- git clone  https://github.com/ForMyDreamAndMyLove/ele-app.git
+- git clone  https://github.com/ForMyDreamAndMyLove/wyy163.git
 - npm i
 - npm start
 
